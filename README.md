@@ -1,6 +1,6 @@
-- 👋 ¡Hola! Me llamo Sylvia :)
-- 👀 I’m interested in Chemistry and coding. Apart from these, I love to dance, discover new restaurants and some embroidery.
-- 🌱 I know how to read, write and speak in English, Hindi and Bengali. I have learnt Spanish upto A1 level from RMIC, Golpark. I'm also attending Slovak classes right now.
+- 👋 ¡Hola a todos! Me llamo Sylvia :)
+- 👀 I’m a PhD student in Theoretical and Computational Chemistry, Faculty of Natural Sciences, Comenius University, Bratislava. Apart from Chemistry, coding is an integral part of my work. I know how to code using Fortran with some basic knowledge of Java and Python. My hobbies include dancing, discovering new restaurants and some embroidery.
+- 🌱 I know how to read, write and speak in English, Hindi and Bengali, and have learnt Spanish upto A1 level from RMIC, Golpark, Kolkata. Currently I'm also learning Slovak. 
 - 📫 My LinkedIn profile: https://www.linkedin.com/in/sylvia-kaviraj-1901/
 - 📫 My blogging page: http://solitaryreapertm.blogspot.com/
 
